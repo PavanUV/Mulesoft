@@ -1,3 +1,5 @@
+- Use sub-flow and private-flow.
+- Use of VM **Publish(Async)** and **Publish Consume(Sync)**.
 - Create accounts.xml (Mule Config file) to store all the global values.
 - Create config.yaml file to store the configuration and auth details in src/main/resources.
 - Adding the yaml files in the configuration properties in global values.
