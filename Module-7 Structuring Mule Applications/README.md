@@ -1,0 +1,4 @@
+- Create accounts.xml (Mule Config file) to store all the global values.
+- Create config.yaml file to store the configuration and auth details in src/main/resources.
+- Adding the yaml files in the configuration properties in global values.
+- pass the value dynamically from yaml file using **${http:port}**.
