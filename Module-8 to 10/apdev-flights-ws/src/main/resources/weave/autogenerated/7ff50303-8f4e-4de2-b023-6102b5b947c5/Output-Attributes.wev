@@ -1,0 +1,10 @@
+%dw 2.0
+
+type auto_7ff50303_8f4e_4de2_b023_6102b5b947c5_Output_Attributes = Null | {|
+  protocolHeaders?: { _?: String }, 
+  statusCode?: Number, 
+  additionalTransportData?: { _?: String }, 
+  reasonPhrase?: String, 
+  headers?: { _?: String }
+|}
+
