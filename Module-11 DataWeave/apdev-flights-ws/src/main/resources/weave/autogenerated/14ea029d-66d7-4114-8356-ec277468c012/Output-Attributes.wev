@@ -1,0 +1,23 @@
+%dw 2.0
+
+type auto_14ea029d_66d7_4114_8356_ec277468c012_Output_Attributes = {|
+  clientCertificate?: {|
+    publicKey?: {|  |}, 
+    "type"?: String, 
+    encoded?: Binary
+  |}, 
+  headers: {|  |}, 
+  listenerPath: String, 
+  method: String, 
+  queryParams: {|  |}, 
+  queryString: String, 
+  relativePath: String, 
+  remoteAddress: String, 
+  requestPath: String, 
+  requestUri: String, 
+  scheme: String, 
+  uriParams: {|  |}, 
+  version: String, 
+  localAddress: String
+|}
+

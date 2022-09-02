@@ -1,0 +1,17 @@
+http:
+  port: "8081"
+  
+sfdc:
+  username: "pavan.uv5@gmail.com"
+  password: "Mulesoft@123"
+  token: "IiHZYnCO3jSRHjdqHiA0J4HT"
+  
+file:
+  Dir: "E:/Mulesoft/APDevFundamentals4.4_studentFiles_SP_27jun2022/APDevFundamentals4.4_studentFiles_SP_27jun2022/resources"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
